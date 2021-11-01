@@ -1,0 +1,14 @@
+E:\unity\Patrones-Proxy\Patrones-Proxy\bin\Debug\netcoreapp3.1\Patrones-Proxy.exe
+E:\unity\Patrones-Proxy\Patrones-Proxy\bin\Debug\netcoreapp3.1\Patrones-Proxy.deps.json
+E:\unity\Patrones-Proxy\Patrones-Proxy\bin\Debug\netcoreapp3.1\Patrones-Proxy.runtimeconfig.json
+E:\unity\Patrones-Proxy\Patrones-Proxy\bin\Debug\netcoreapp3.1\Patrones-Proxy.runtimeconfig.dev.json
+E:\unity\Patrones-Proxy\Patrones-Proxy\bin\Debug\netcoreapp3.1\Patrones-Proxy.dll
+E:\unity\Patrones-Proxy\Patrones-Proxy\bin\Debug\netcoreapp3.1\Patrones-Proxy.pdb
+E:\unity\Patrones-Proxy\Patrones-Proxy\obj\Debug\netcoreapp3.1\Patrones-Proxy.csproj.AssemblyReference.cache
+E:\unity\Patrones-Proxy\Patrones-Proxy\obj\Debug\netcoreapp3.1\Patrones-Proxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\Patrones-Proxy\Patrones-Proxy\obj\Debug\netcoreapp3.1\Patrones-Proxy.AssemblyInfoInputs.cache
+E:\unity\Patrones-Proxy\Patrones-Proxy\obj\Debug\netcoreapp3.1\Patrones-Proxy.AssemblyInfo.cs
+E:\unity\Patrones-Proxy\Patrones-Proxy\obj\Debug\netcoreapp3.1\Patrones-Proxy.csproj.CoreCompileInputs.cache
+E:\unity\Patrones-Proxy\Patrones-Proxy\obj\Debug\netcoreapp3.1\Patrones-Proxy.dll
+E:\unity\Patrones-Proxy\Patrones-Proxy\obj\Debug\netcoreapp3.1\Patrones-Proxy.pdb
+E:\unity\Patrones-Proxy\Patrones-Proxy\obj\Debug\netcoreapp3.1\Patrones-Proxy.genruntimeconfig.cache
