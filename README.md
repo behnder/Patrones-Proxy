@@ -1,0 +1,1 @@
+Proxy -Crea un "envoltorio" que permite tener un acceso al objeto final que necesitamos manipular.
