@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\unity\\Patrones-Proxy\\Patrones-Proxy\\Patrones-Proxy.csproj": {}
+    "E:\\unity\\quark\\Patrones\\Patrones-Proxy\\Patrones-Proxy\\Patrones-Proxy.csproj": {}
   },
   "projects": {
-    "E:\\unity\\Patrones-Proxy\\Patrones-Proxy\\Patrones-Proxy.csproj": {
+    "E:\\unity\\quark\\Patrones\\Patrones-Proxy\\Patrones-Proxy\\Patrones-Proxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\unity\\Patrones-Proxy\\Patrones-Proxy\\Patrones-Proxy.csproj",
+        "projectUniqueName": "E:\\unity\\quark\\Patrones\\Patrones-Proxy\\Patrones-Proxy\\Patrones-Proxy.csproj",
         "projectName": "Patrones-Proxy",
-        "projectPath": "E:\\unity\\Patrones-Proxy\\Patrones-Proxy\\Patrones-Proxy.csproj",
+        "projectPath": "E:\\unity\\quark\\Patrones\\Patrones-Proxy\\Patrones-Proxy\\Patrones-Proxy.csproj",
         "packagesPath": "C:\\Users\\Corvo\\.nuget\\packages\\",
-        "outputPath": "E:\\unity\\Patrones-Proxy\\Patrones-Proxy\\obj\\",
+        "outputPath": "E:\\unity\\quark\\Patrones\\Patrones-Proxy\\Patrones-Proxy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Corvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
